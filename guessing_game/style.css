@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.game-container {
+    background-color: white;
+    width: 350px;
+    margin: 100px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+input {
+    padding: 10px;
+    width: 80%;
+    margin: 10px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: darkblue;
+}
+
+#message {
+    font-weight: bold;
+    color: green;
+}
